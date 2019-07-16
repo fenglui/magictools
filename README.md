@@ -460,8 +460,9 @@ Must see
 
 ### Project Management
 
-* :moneybag: [Casual](https://casual.pm/) - Visual Project Management
+* :moneybag: [Casual](https://casual.pm/) - Visual Project Management 可视化项目管理
 * :moneybag: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
+Modern Project Management for Game Developers 游戏开发者的现代项目管理
 * :money_with_wings: [HacknPlan](http://hacknplan.com/) - Project management for game developers
 * :money_with_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
 * :money_with_wings: [Trello](https://trello.com/) - Organize and prioritize projects
